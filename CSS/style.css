@@ -78,8 +78,6 @@
     position: relative;
     border: 1px solid rgb(221, 120, 26);
     flex: 1 0 200px;
-    font-size: 60px;
-    font-weight: bold;
 }
 
 .face {
