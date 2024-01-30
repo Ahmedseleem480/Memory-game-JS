@@ -112,3 +112,9 @@
     -moz-transform: rotateY(180deg);
     pointer-events: none;
 }
+@media screen and (max-width: 400px) {
+.memory-game-blocks {
+    max-width : 100%
+} 
+
+} 
