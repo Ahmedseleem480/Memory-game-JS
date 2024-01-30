@@ -48,7 +48,7 @@ function flip_block(selectedBlock) {
     MatchFlippedBlocks(allFlippedElements[0], allFlippedElements[1]);
   }
   //Restart
-  if (document.querySelector(".Tries span").innerHTML == "5") {
+  if (document.querySelector(".Tries span").innerHTML == "7") {
     window.location.reload();
   }
 }
